@@ -250,7 +250,7 @@ Secara praktis, alurnya biasanya seperti ini:
    Misal: peta skill & lowongan data science dari JobStreet.
 
 2. **Pilih website target**
-   Contoh: `https://www.jobstreet.co.id/` dengan keyword “data science”.
+   Contoh: `https://id.jobstreet.com/id/data-science-jobs` dengan keyword “data science”.
 
 3. **Inspect Element**
    Gunakan fitur Inspect di browser untuk:
@@ -289,7 +289,7 @@ Secara praktis, alurnya biasanya seperti ini:
 Target URL contoh:
 
 ```text
-https://www.jobstreet.co.id/id/job-search/data%20science-jobs
+https://id.jobstreet.com/id/data-science-jobs
 ```
 
 Informasi yang ingin diambil (per lowongan):
@@ -498,13 +498,4 @@ Untuk mahasiswa Statistika & Sains Data:
 
 Selamat bereksperimen dan eksplorasi. 🚀
 
-```
-
-Kalau kamu mau, next step kita bisa bikin:
-
-- file `python/jobstreet_selenium_basic.py`  
-- file `r/jobstreet_rvest_example.R`  
-- file `docs/selectors_jobstreet.md`  
-
-buat ngelengkapin repo biar keliatan super niat di GitHub kamu.
 ```
