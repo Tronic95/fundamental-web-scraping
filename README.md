@@ -13,7 +13,7 @@ Di mata kuliah **Metode Pengumpulan Data**, kita biasanya belajar:
 - Sensus
 - Rancangan percobaan / eksperimen
 
-### Lalu Jejak Digital / Web Data Itu Masuk Kategori Apa?
+### 1.1 Lalu Jejak Digital / Web Data Itu Masuk Kategori Apa?
 
 > Nah, begitu masuk era digital, muncul satu kategori baru yang sering disebut:
 > “Found Data” / “Data Web / Jejak Digital”
@@ -70,7 +70,7 @@ Bayangkan internet seperti **satu kota besar** penuh rumah.
 - **Rumah** = halaman web (web page)  
 - **Alamat rumah** = URL (link)
 
-### Crawling = Mencari Alamat Rumah
+### 2.1 Crawling = Mencari Alamat Rumah
 
 Kamu keliling komplek:
 
@@ -88,7 +88,7 @@ Dalam konteks web:
 
 ---
 
-### Scraping = Masuk ke Rumah & Cek Isinya
+### 2.2 Scraping = Masuk ke Rumah & Cek Isinya
 
 Setelah kamu punya daftar alamat rumah:
 
