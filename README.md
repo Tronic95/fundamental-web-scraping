@@ -15,6 +15,9 @@ Di mata kuliah **Metode Pengumpulan Data**, kita biasanya belajar:
 
 ### 1.1 Lalu Jejak Digital / Web Data Itu Masuk Kategori Apa?
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2b5cfffd-3cbd-4c85-8d3e-72ecf396b81c" />
+
+
 > Nah, begitu masuk era digital, muncul satu kategori baru yang sering disebut:
 > “Found Data” / “Data Web / Jejak Digital”
 (data yang sudah ada, bukan kita yang minta orang isi atau kita yang ngatur eksperimen)
@@ -65,6 +68,9 @@ Di sinilah **Web Crawling** dan **Web Scraping** jadi “senjata baru” untuk p
 
 ## 2. Crawling & Scraping: Ibarat Mencari dan Mengintip Isi Rumah
 
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/01dd329b-378a-4e12-bc9e-c3b5a10ab068" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/9f360e3b-6cad-48d6-9674-060df8afcf3f" />
+
 Bayangkan internet seperti **satu kota besar** penuh rumah.
 
 - **Rumah** = halaman web (web page)  
@@ -110,7 +116,7 @@ Dalam konteks web:
 
 ---
 
-## 3. Istilah Penting: Web Crawling & Scraping
+## 3. Web Crawling & Scraping
 
 ### 3.1 Web Crawling
 
