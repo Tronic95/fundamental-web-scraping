@@ -70,7 +70,7 @@ Bayangkan internet seperti **satu kota besar** penuh rumah.
 - **Rumah** = halaman web (web page)  
 - **Alamat rumah** = URL (link)
 
-### Web Crawling = Mencari Alamat Rumah
+### Crawling = Mencari Alamat Rumah
 
 Kamu keliling komplek:
 
@@ -88,7 +88,7 @@ Dalam konteks web:
 
 ---
 
-### Web Scraping = Masuk ke Rumah & Cek Isinya
+### Scraping = Masuk ke Rumah & Cek Isinya
 
 Setelah kamu punya daftar alamat rumah:
 
