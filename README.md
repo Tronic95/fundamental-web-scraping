@@ -68,8 +68,7 @@ Di sinilah **Web Crawling** dan **Web Scraping** jadi “senjata baru” untuk p
 
 ## 2. Crawling & Scraping: Ibarat Mencari dan Mengintip Isi Rumah
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/01dd329b-378a-4e12-bc9e-c3b5a10ab068" />
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/9f360e3b-6cad-48d6-9674-060df8afcf3f" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/01dd329b-378a-4e12-bc9e-c3b5a10ab068" /> <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/9f360e3b-6cad-48d6-9674-060df8afcf3f" />
 
 Bayangkan internet seperti **satu kota besar** penuh rumah.
 
